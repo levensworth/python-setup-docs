@@ -28,11 +28,11 @@ tener un entorno de desarrollo mínimo que nos permita hacer un `Hello World`.
 ### Primera vista:
 Si abrimos el programa, seguramente encontremos una primera pantalla muy parecida a la siguiente:
 
-![VS Code preview](../imgs/vscode_preview.png)
+![VS Code preview](imgs/vscode_preview.png)
 
 Es importante destacar las secciones del editor:
 
-![VS Code sections](../imgs/vscode_numbered.png)
+![VS Code sections](imgs/vscode_numbered.png)
 
 
 La sección resaltada en verde (pantalla principal), es donde se vizualizarán los docuemntos abiertos. Cuando abirmos el programa,
