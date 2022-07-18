@@ -5,7 +5,7 @@ Benvenidos a la documentación oficial de la catedra para la instalación y corr
 ## Primeros Pasos
 Por favor, primero deben ver la guía acorde a su sistema operativo para instalar Python.
 La guía se encuentra disponible para MacOS y Windows. En caso de estar utilizando un sistema Linux, recomendamos ver la sección 
-de isntalación de Python de la guía para windows dado que la misma utiliza WSL para simular un entorno Linux.
+de instalación de Python de la guía para windows dado que la misma utiliza WSL para simular un entorno Linux.
 
 * [MacOS](installation/mac-install.md)
 * [Windows](installation/windows-install.md)
