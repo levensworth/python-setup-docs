@@ -10,6 +10,8 @@ de instalación de Python de la guía para windows dado que la misma utiliza WSL
 * [MacOS](installation/mac-install.md)
 * [Windows](installation/windows-install.md)
 
+## Material de tutoriales:
+Los ejercicios resueltos en clases tutoriales podrán encontrarse en el siguiente [link](https://github.com/levensworth/udesa-pc-tutorial):
 
 ## Entorno de desarrollo:
 Luego de instalar correctamente el entorno de Python que utilizaremos, vamos a seguir por el setup del entorno de desarrollo
