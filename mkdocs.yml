@@ -28,3 +28,6 @@ nav:
   - Setup:
     - Editor: setup/vs-code.md
     - Nuevo Proyecto: setup/new_project.md
+
+  - Proyectos:
+    - Recomendador: projects/song-recommendation.md
