@@ -5,6 +5,12 @@ theme:
   name: material
 
 
+extra_javascript:
+  - javascripts/mathjax.js
+  - javascripts/fontawesome/all.min.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
 markdown_extensions:
   - meta
   - admonition
@@ -14,6 +20,8 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
@@ -29,5 +37,7 @@ nav:
     - Editor: setup/vs-code.md
     - Nuevo Proyecto: setup/new_project.md
 
+  - Recursion:
+    - Introducción: recursion/intro.md
   - Proyectos:
     - Recomendador: projects/song-recommendation.md
