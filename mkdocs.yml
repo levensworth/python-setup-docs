@@ -39,5 +39,10 @@ nav:
 
   - Recursion:
     - Introducción: recursion/intro.md
+  
+  - OOP:
+    - Introducción: oop/intro.md
+    - Ejemplo de un objeto: oop/disect_objects.md
+
   - Proyectos:
     - Recomendador: projects/song-recommendation.md
